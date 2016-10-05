@@ -1,0 +1,4 @@
+git config user.email "这个是邮箱"
+git config user.name "你的名字"
+
+自己的github账号clone时：
